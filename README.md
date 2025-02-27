@@ -1,5 +1,8 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+## Name : V DIVYASHREE
+## REG.NO : 212223230051
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
